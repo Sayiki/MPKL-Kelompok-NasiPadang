@@ -1,0 +1,24 @@
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\hitungsampah_test.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\hitungsampah_test.pdb
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\GUI_tubes KPL.exe
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Register.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\KapasitasLibrary.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\GUI_tubes KPL.pdb
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\GUI_tubes KPL.exe.config
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Register.pdb
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\bin\Debug\KapasitasLibrary.pdb
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\obj\Debug\hitungsampah_test.csproj.AssemblyReference.cache
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\obj\Debug\hitungsampah_test.csproj.CoreCompileInputs.cache
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\obj\Debug\hitungsampah_test.csproj.CopyComplete
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\obj\Debug\hitungsampah_test.dll
+C:\Users\arzaq\OneDrive\Documents\GitHub\EcoRecycle\hitungsampah_test\obj\Debug\hitungsampah_test.pdb
