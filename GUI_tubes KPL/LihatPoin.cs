@@ -116,6 +116,7 @@ namespace GUI_tubes_KPL
         {
             // Close the current instance of the form
             this.Close();
+
         }
     }
 }
