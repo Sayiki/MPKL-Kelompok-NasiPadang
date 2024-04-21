@@ -17,7 +17,7 @@ namespace TUBES_KPL_2023
 
         public State currentState = State.Idle;
 
-        public void ProcessInput(string input)
+        public void ProcessInput(string input) 
         {
             //precondition: User input logout, masukkan inputan pilihan ya atau tidak, user input random diluar ya atau tidak.
             //postcondition: User berhasil logout, user batal logout, user diminta memasukkan pilihan iya tatu tidak!.
