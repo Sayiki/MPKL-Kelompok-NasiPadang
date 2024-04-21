@@ -16,6 +16,7 @@ namespace GUI_tubes_KPL
         // Add a private field to store the label control
         private Label _totalInputLabel;
 
+
         public kapasitas()
         {
             InitializeComponent();
