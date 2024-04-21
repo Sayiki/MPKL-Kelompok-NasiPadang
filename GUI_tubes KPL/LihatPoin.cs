@@ -109,6 +109,7 @@ namespace GUI_tubes_KPL
                 totalPoints += poin;
             }
 
+
             return totalPoints;
         }
 
