@@ -92,11 +92,13 @@ namespace GUI_tubes_KPL
 
             return poin;
 
+
         }
 
         public void SetSampahDataList(List<SampahData> data)
         {
             sampahDataList = data;
+
         }
 
         public int CalculateTotalPoints()
