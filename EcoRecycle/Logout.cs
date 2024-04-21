@@ -19,7 +19,7 @@ namespace TUBES_KPL_2023
 
         public void ProcessInput(string input) 
         {
-            //precondition: User input logout, masukkan inputan pilihan ya atau tidak, user input random diluar ya atau tidak.
+            //precondition: User input logout, masukkan inputan pilihan ya atau tidak, user input random diluar ya/tidak!!!
             //postcondition: User berhasil logout, user batal logout, user diminta memasukkan pilihan iya tatu tidak!.
             try
             {
