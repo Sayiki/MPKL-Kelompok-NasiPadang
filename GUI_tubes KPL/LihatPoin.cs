@@ -92,11 +92,13 @@ namespace GUI_tubes_KPL
 
             return poin;
 
+
         }
 
         public void SetSampahDataList(List<SampahData> data)
         {
             sampahDataList = data;
+
         }
 
         public int CalculateTotalPoints()
@@ -109,6 +111,7 @@ namespace GUI_tubes_KPL
                 totalPoints += poin;
             }
 
+
             return totalPoints;
         }
 
@@ -116,6 +119,7 @@ namespace GUI_tubes_KPL
         {
             // Close the current instance of the form
             this.Close();
+
         }
     }
 }
