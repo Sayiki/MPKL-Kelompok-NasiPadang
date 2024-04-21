@@ -23,6 +23,8 @@ namespace TUBES_KPL_2023
             //postcondition: User berhasil logout, user batal logout, user diminta memasukkan pilihan iya tatu tidak!.
             try
             {
+
+                
                 switch (currentState)
                 {
                     case State.Idle:
