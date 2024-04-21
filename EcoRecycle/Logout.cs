@@ -40,6 +40,9 @@ namespace TUBES_KPL_2023
                         }
                         break;
 
+
+
+
                     case State.Confirming:
                         if (input == null)
                         {
